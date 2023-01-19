@@ -1,1 +1,1 @@
-# Analyzing_Pharmaceutical-Medicine-
+# Analyzing_pharmaceutical_medicine_using_Matplotlib
