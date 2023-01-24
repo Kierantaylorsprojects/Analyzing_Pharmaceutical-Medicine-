@@ -6,7 +6,7 @@ In this project I utilized the pandas, matplotlib and scipy.stats libraries to p
 
 More specifcially, utilziing matplotlib and scipy.stats, I was able to create visulaztion charts showing different calcutions pertaining to the success of specfic pharmacuetical drugs in relationship to the tumor sizes in the mice. 
 
-##Findings:
+## Findings:
 
 1. Capomulin and Ramicane reduces the tumor size better.
 
