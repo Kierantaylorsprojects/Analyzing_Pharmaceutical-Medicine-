@@ -2,9 +2,9 @@
 
 ## Summary
 
-In this project I utilized the pandas, matplotlib and scipy.stats libraries to process and analyze two csv files consisting of informtion regarding sample sizes of mice and their tumors.
+In this project, I utilized pandas, matplotlib, and scipy.stats libraries to process and analyze two CSV files consisting of information regarding sample sizes of mice and their tumors.
 
-More specifcially, utilziing matplotlib and scipy.stats, I was able to create visulaztion charts showing different calcutions pertaining to the success of specfic pharmacuetical drugs in relationship to the tumor sizes in the mice. 
+More specifically, utilizing matplotlib and scipy.stats, I was able to create visualization charts showing different calculations pertaining to the success of specific pharmaceutical drugs in relation to the tumor sizes in the mice.
 
 ## Findings:
 
